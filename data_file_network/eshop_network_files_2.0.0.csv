@@ -1,6 +1,5 @@
 developer_a,developer_b,weight
 adebunky@gmail.com,christian.arenasnavarro@hotmail.com,0
-(none),martin@dotnetfoundation.org,0
 igorsych@microsoft.com,sescalada@plainconcepts.com,0
 jorgevalentzeferino@gmail.com,lruiz@plainconcepts.com,0
 cesardl@microsoft.com,glennc@microsoft.com,30
@@ -23,7 +22,6 @@ adebunky@gmail.com,cesardl@surfbookcesardl,0
 igorsychev@microsoft.com,sychev-igor.90@mail.ru,2
 jacanosalado@gmail.com,polys@users.noreply.github.com,0
 bethma@microsoft.com,bill.w.wagner@outlook.com,0
-(none),ramon.tomas84@hotmail.com,0
 chlowe@microsoft.com,jsuarez@plainconcepts.com,1
 jono@rallysafe.com.au,lruiz@plainconcepts.com,0
 davidbritch@davids-mbp.lan,jsuarez@plainconcepts.com,79
@@ -46,7 +44,6 @@ carenas@plainconcepts.com,geert.van.laethem@telenet.be,1
 igorsych@microsoft.com,igorsychev@microsoft.com,4
 martin@dotnetfoundation.org,volkanaltan@gmail.com,0
 kyle@baley.org,rtomas@plainconcepts.com,0
-(none),danny.chencc@ef.com,0
 bill.w.wagner@outlook.com,dazhao@microsoft.com,0
 christian147_@hotmail.com,frankanya@outlook.com,0
 christian.arenasnavarro@hotmail.com,sychev-igor.90@mail.ru,4
@@ -61,7 +58,6 @@ adebunky@gmail.com,sychev-igor.90@mail.ru,0
 matthew@codeproject.com,shaun.walker@arrowdigital.com,0
 ramon.tomas84@hotmail.com,rivettea@hotmail.com,0
 igorsych@microsoft.com,lruiz@plainconcepts.com,2
-(none),christian.arenasnavarro@hotmail.com,0
 cesardl@microsoft.com,martin@dotnetfoundation.org,3
 cesardl@surfbookcesardl,e.fernandez@plainconcepts.com,0
 davidbritch@users.noreply.github.com,e.fernandez@plainconcepts.com,0
@@ -81,8 +77,6 @@ e.fernandez@plainconcepts.com,martin@dotnetfoundation.org,0
 bill.w.wagner@outlook.com,christian147_@hotmail.com,0
 christian147_@hotmail.com,sescalada@plainconcepts.com,0
 charychandan@gmail.com,martin@dotnetfoundation.org,1
-(none),cesardl@surfbookcesardl,0
-(none),volkanaltan@gmail.com,0
 bethma@microsoft.com,rtomas@plainconcepts.com,0
 ccanizares@plainconcepts.com,dazhao@microsoft.com,4
 chlowe@microsoft.com,henkmollema@gmail.com,1
@@ -149,7 +143,6 @@ andre-ap2@hotmail.com,igorsych@microsoft.com,4
 cesardl@surfbookcesardl,sescalada@plainconcepts.com,0
 egorgrishechko@gmail.com,sescalada@plainconcepts.com,0
 geert.van.laethem@telenet.be,jacanosalado@gmail.com,0
-(none),charychandan@gmail.com,0
 cesardl@microsoft.com,cesardl@surfbookcesardl,17
 cesardl@surfbookcesardl,christian147_@hotmail.com,1
 cesardl@microsoft.com,volkanaltan@gmail.com,1
@@ -189,7 +182,6 @@ unai zorrilla castro,wiwagn@microsoft.com,7
 jacanosalado@gmail.com,ncsurfus@gmail.com,0
 henkmollema@gmail.com,sescalada@plainconcepts.com,0
 c.canizaresestevez@hotmail.com,etomas@gmail.com,35
-(none),cesardl@microsoft.com,0
 cesardl@surfbookcesardl,igorsychev@microsoft.com,0
 davidbritch@users.noreply.github.com,glennc@microsoft.com,0
 dennis.vanderstelt@particular.net,jorgevalentzeferino@gmail.com,0
@@ -198,7 +190,6 @@ dsanz@plainconcepts.com,matthew@codeproject.com,1
 geert.van.laethem@telenet.be,ramon.smits@gmail.com,0
 cesardl@microsoft.com,sychev-igor.90@mail.ru,16
 javiersuarezruiz@hotmail.com,steve@kentsmiths.com,0
-(none),etomas@gmail.com,0
 dennis.vanderstelt@particular.net,unai@plainconcepts.com,0
 jono@rallysafe.com.au,sychev-igor.90@mail.ru,0
 jorgevalentzeferino@gmail.com,wiwagn@microsoft.com,0
@@ -245,7 +236,6 @@ adebunky@gmail.com,jorgevalentzeferino@gmail.com,0
 dennis.vanderstelt@particular.net,priyanshuagrawal@outlook.com,0
 etomas@gmail.com,martin@dotnetfoundation.org,2
 adebunky@gmail.com,unai@plainconcepts.com,0
-(none),matthew@codeproject.com,0
 bill.w.wagner@outlook.com,jsuarez@plainconcepts.com,0
 henkmollema@gmail.com,jacanosalado@gmail.com,0
 dazhao@microsoft.com,polys@users.noreply.github.com,0
@@ -297,13 +287,11 @@ jacanosalado@gmail.com,jorgearteiro@hotmail.com,0
 jorgevalentzeferino@gmail.com,polys@users.noreply.github.com,0
 lruiz@plainconcepts.com,unai@plainconcepts.com,1
 adebunky@gmail.com,rtomas@plainconcepts.com,0
-(none),jorgevalentzeferino@gmail.com,0
 geert.van.laethem@telenet.be,kyle@baley.org,0
 christian.arenasnavarro@hotmail.com,frankanya@outlook.com,0
 martin@dotnetfoundation.org,priyanshuagrawal@outlook.com,1
 dazhao@microsoft.com,e.fernandez@plainconcepts.com,0
 christian147_@hotmail.com,dennis.vanderstelt@particular.net,0
-(none),unai@plainconcepts.com,0
 dennis.vanderstelt@particular.net,sescalada@plainconcepts.com,0
 jorgearteiro@hotmail.com,lruiz@plainconcepts.com,0
 volkanaltan@gmail.com,wiwagn@microsoft.com,1
@@ -340,7 +328,6 @@ ramon.tomas84@hotmail.com,rtomas@plainconcepts.com,99
 chlowe@microsoft.com,skynode@users.noreply.github.com,1
 davidbritch@davids-mbp.lan,skynode@users.noreply.github.com,0
 geert.van.laethem@telenet.be,sychev-igor.90@mail.ru,0
-(none),priyanshuagrawal@outlook.com,0
 ramon.tomas84@hotmail.com,skynode@users.noreply.github.com,1
 matthew@codeproject.com,ncsurfus@gmail.com,0
 christian147_@hotmail.com,wiwagn@microsoft.com,3
@@ -376,7 +363,6 @@ danny.chencc@ef.com,dazhao@microsoft.com,0
 carenas@plainconcepts.com,christian147_@hotmail.com,9
 igorsychev@microsoft.com,ramon.smits@gmail.com,0
 c.canizaresestevez@hotmail.com,egorgrishechko@gmail.com,2
-(none),frankanya@outlook.com,0
 cesardl@surfbookcesardl,henkmollema@gmail.com,1
 chlowe@microsoft.com,ncsurfus@gmail.com,1
 davidbritch@davids-mbp.lan,ncsurfus@gmail.com,1
@@ -401,7 +387,6 @@ jorgearteiro@hotmail.com,jsuarez@plainconcepts.com,0
 ramon.smits@gmail.com,skynode@users.noreply.github.com,0
 cesardl@microsoft.com,priyanshuagrawal@outlook.com,1
 cesardl@surfbookcesardl,wiwagn@microsoft.com,0
-(none),sescalada@plainconcepts.com,0
 c.canizaresestevez@hotmail.com,javiersuarezruiz@hotmail.com,8
 igorsychev@microsoft.com,ramon.tomas84@hotmail.com,10
 dsanz@plainconcepts.com,igorsychev@microsoft.com,5
@@ -484,7 +469,6 @@ e.fernandez@plainconcepts.com,sescalada@plainconcepts.com,0
 davidbritch@davids-mbp.lan,ramon.tomas84@hotmail.com,12
 davidbritch@davids-mbp.lan,jorgearteiro@hotmail.com,0
 charychandan@gmail.com,sescalada@plainconcepts.com,0
-(none),davidbritch@users.noreply.github.com,0
 glennc@microsoft.com,polys@users.noreply.github.com,0
 ramon.smits@gmail.com,unai zorrilla castro,0
 danny.chencc@ef.com,ramon.smits@gmail.com,0
@@ -502,7 +486,6 @@ andre-ap2@hotmail.com,volkanaltan@gmail.com,0
 c.canizaresestevez@hotmail.com,ramon.tomas84@hotmail.com,39
 geert.van.laethem@telenet.be,unai@plainconcepts.com,1
 priyanshuagrawal@outlook.com,ramon.smits@gmail.com,0
-(none),ccanizares@plainconcepts.com,0
 adebunky@gmail.com,volkanaltan@gmail.com,0
 frankanya@outlook.com,ncsurfus@gmail.com,0
 chlowe@microsoft.com,danny.chencc@ef.com,0
@@ -573,7 +556,6 @@ christian.arenasnavarro@hotmail.com,shaun.walker@arrowdigital.com,6
 etomas@gmail.com,priyanshuagrawal@outlook.com,1
 andre-ap2@hotmail.com,charychandan@gmail.com,0
 dennis.vanderstelt@particular.net,jono@rallysafe.com.au,0
-(none),geert.van.laethem@telenet.be,0
 dazhao@microsoft.com,rivettea@hotmail.com,0
 adebunky@gmail.com,charychandan@gmail.com,0
 javiersuarezruiz@hotmail.com,jorgearteiro@hotmail.com,0
@@ -594,7 +576,6 @@ christian147_@hotmail.com,ncsurfus@gmail.com,0
 dsanz@plainconcepts.com,steve@kentsmiths.com,3
 carenas@plainconcepts.com,sychev-igor.90@mail.ru,18
 dsanz@plainconcepts.com,shaun.walker@arrowdigital.com,18
-(none),carenas@plainconcepts.com,0
 priyanshuagrawal@outlook.com,volkanaltan@gmail.com,0
 etomas@gmail.com,frankanya@outlook.com,1
 ccanizares@plainconcepts.com,egorgrishechko@gmail.com,0
@@ -624,7 +605,6 @@ bill.w.wagner@outlook.com,jacanosalado@gmail.com,0
 frankanya@outlook.com,jorgearteiro@hotmail.com,0
 frankanya@outlook.com,ramon.tomas84@hotmail.com,0
 geert.van.laethem@telenet.be,javiersuarezruiz@hotmail.com,0
-(none),dennis.vanderstelt@particular.net,0
 igorsych@microsoft.com,jorgearteiro@hotmail.com,0
 martin@dotnetfoundation.org,wiwagn@microsoft.com,0
 jorgevalentzeferino@gmail.com,volkanaltan@gmail.com,0
@@ -636,7 +616,6 @@ jacanosalado@gmail.com,rtomas@plainconcepts.com,0
 danny.chencc@ef.com,sychev-igor.90@mail.ru,0
 dsanz@plainconcepts.com,jono@rallysafe.com.au,1
 jorgevalentzeferino@gmail.com,kyle@baley.org,0
-(none),henkmollema@gmail.com,0
 c.canizaresestevez@hotmail.com,charychandan@gmail.com,1
 jacanosalado@gmail.com,skynode@users.noreply.github.com,0
 bill.w.wagner@outlook.com,unai zorrilla castro,2
@@ -647,11 +626,8 @@ etomas@gmail.com,sescalada@plainconcepts.com,1
 lruiz@plainconcepts.com,shaun.walker@arrowdigital.com,1
 christian147_@hotmail.com,lruiz@plainconcepts.com,1
 bethma@microsoft.com,javiersuarezruiz@hotmail.com,0
-(none),c.canizaresestevez@hotmail.com,0
 davidbritch@users.noreply.github.com,egorgrishechko@gmail.com,0
 christian147_@hotmail.com,unai zorrilla castro,6
-(none),steve@kentsmiths.com,0
-(none),shaun.walker@arrowdigital.com,0
 e.fernandez@plainconcepts.com,jsuarez@plainconcepts.com,0
 dazhao@microsoft.com,jono@rallysafe.com.au,0
 jono@rallysafe.com.au,volkanaltan@gmail.com,0
@@ -677,7 +653,6 @@ davidbritch@davids-mbp.lan,etomas@gmail.com,10
 charychandan@gmail.com,geert.van.laethem@telenet.be,0
 cesardl@surfbookcesardl,ncsurfus@gmail.com,1
 ramon.smits@gmail.com,sychev-igor.90@mail.ru,0
-(none),wiwagn@microsoft.com,0
 christian.arenasnavarro@hotmail.com,dsanz@plainconcepts.com,6
 adebunky@gmail.com,matthew@codeproject.com,0
 bill.w.wagner@outlook.com,ramon.smits@gmail.com,0
@@ -687,7 +662,6 @@ carenas@plainconcepts.com,etomas@gmail.com,105
 c.canizaresestevez@hotmail.com,cesardl@microsoft.com,75
 davidbritch@users.noreply.github.com,javiersuarezruiz@hotmail.com,19
 ccanizares@plainconcepts.com,unai zorrilla castro,36
-(none),jono@rallysafe.com.au,0
 adebunky@gmail.com,dsanz@plainconcepts.com,0
 bill.w.wagner@outlook.com,martin@dotnetfoundation.org,0
 christian.arenasnavarro@hotmail.com,polys@users.noreply.github.com,0
@@ -758,7 +732,6 @@ steve@kentsmiths.com,volkanaltan@gmail.com,0
 egorgrishechko@gmail.com,ramon.smits@gmail.com,0
 chlowe@microsoft.com,izdebski.krzysztof@gmail.com,0
 davidbritch@davids-mbp.lan,izdebski.krzysztof@gmail.com,0
-(none),dsanz@plainconcepts.com,0
 bill.w.wagner@outlook.com,christian.arenasnavarro@hotmail.com,0
 christian.arenasnavarro@hotmail.com,e.fernandez@plainconcepts.com,1
 e.fernandez@plainconcepts.com,wiwagn@microsoft.com,0
@@ -775,7 +748,6 @@ andre-ap2@hotmail.com,priyanshuagrawal@outlook.com,0
 e.fernandez@plainconcepts.com,jono@rallysafe.com.au,0
 jorgearteiro@hotmail.com,ncsurfus@gmail.com,0
 charychandan@gmail.com,jono@rallysafe.com.au,0
-(none),polys@users.noreply.github.com,0
 chlowe@microsoft.com,jorgevalentzeferino@gmail.com,0
 davidbritch@davids-mbp.lan,jorgevalentzeferino@gmail.com,0
 bill.w.wagner@outlook.com,cesardl@surfbookcesardl,1
@@ -834,7 +806,6 @@ carenas@plainconcepts.com,priyanshuagrawal@outlook.com,1
 christian147_@hotmail.com,sychev-igor.90@mail.ru,5
 cesardl@surfbookcesardl,christian.arenasnavarro@hotmail.com,0
 dennis.vanderstelt@particular.net,ncsurfus@gmail.com,0
-(none),e.fernandez@plainconcepts.com,0
 priyanshuagrawal@outlook.com,unai@plainconcepts.com,0
 frankanya@outlook.com,igorsych@microsoft.com,0
 christian.arenasnavarro@hotmail.com,sescalada@plainconcepts.com,0
@@ -860,7 +831,6 @@ izdebski.krzysztof@gmail.com,lruiz@plainconcepts.com,0
 carenas@plainconcepts.com,rtomas@plainconcepts.com,17
 davidbritch@users.noreply.github.com,volkanaltan@gmail.com,0
 dsanz@plainconcepts.com,skynode@users.noreply.github.com,1
-(none),adebunky@gmail.com,0
 egorgrishechko@gmail.com,volkanaltan@gmail.com,0
 izdebski.krzysztof@gmail.com,unai zorrilla castro,0
 e.fernandez@plainconcepts.com,polys@users.noreply.github.com,0
@@ -904,7 +874,6 @@ glennc@microsoft.com,sychev-igor.90@mail.ru,3
 henkmollema@gmail.com,volkanaltan@gmail.com,0
 ramon.tomas84@hotmail.com,sescalada@plainconcepts.com,2
 bill.w.wagner@outlook.com,etomas@gmail.com,2
-(none),dazhao@microsoft.com,0
 adebunky@gmail.com,igorsychev@microsoft.com,0
 henkmollema@gmail.com,kyle@baley.org,0
 matthew@codeproject.com,unai zorrilla castro,0
@@ -946,7 +915,6 @@ jorgevalentzeferino@gmail.com,rtomas@plainconcepts.com,0
 igorsych@microsoft.com,unai@plainconcepts.com,17
 christian147_@hotmail.com,igorsych@microsoft.com,5
 ccanizares@plainconcepts.com,cesardl@microsoft.com,70
-(none),christian147_@hotmail.com,0
 andre-ap2@hotmail.com,davidbritch@users.noreply.github.com,1
 etomas@gmail.com,jono@rallysafe.com.au,1
 matthew@codeproject.com,ramon.smits@gmail.com,0
@@ -958,7 +926,6 @@ henkmollema@gmail.com,sychev-igor.90@mail.ru,0
 dazhao@microsoft.com,glennc@microsoft.com,2
 javiersuarezruiz@hotmail.com,rtomas@plainconcepts.com,0
 dsanz@plainconcepts.com,lruiz@plainconcepts.com,6
-(none),ncsurfus@gmail.com,0
 danny.chencc@ef.com,javiersuarezruiz@hotmail.com,0
 christian147_@hotmail.com,davidbritch@davids-mbp.lan,0
 dsanz@plainconcepts.com,unai zorrilla castro,49
@@ -978,15 +945,12 @@ igorsych@microsoft.com,priyanshuagrawal@outlook.com,0
 kyle@baley.org,polys@users.noreply.github.com,0
 matthew@codeproject.com,ramon.tomas84@hotmail.com,1
 cesardl@microsoft.com,dazhao@microsoft.com,5
-(none),glennc@microsoft.com,1
-(none),igorsychev@microsoft.com,0
 cesardl@surfbookcesardl,etomas@gmail.com,12
 davidbritch@users.noreply.github.com,etomas@gmail.com,6
 egorgrishechko@gmail.com,etomas@gmail.com,1
 chlowe@microsoft.com,davidbritch@users.noreply.github.com,1
 davidbritch@davids-mbp.lan,davidbritch@users.noreply.github.com,18
 ccanizares@plainconcepts.com,matthew@codeproject.com,0
-(none),jacanosalado@gmail.com,0
 dsanz@plainconcepts.com,ramon.smits@gmail.com,0
 steve@kentsmiths.com,unai@plainconcepts.com,0
 bill.w.wagner@outlook.com,izdebski.krzysztof@gmail.com,0
@@ -1000,12 +964,9 @@ charychandan@gmail.com,skynode@users.noreply.github.com,0
 frankanya@outlook.com,rtomas@plainconcepts.com,0
 christian147_@hotmail.com,izdebski.krzysztof@gmail.com,0
 glennc@microsoft.com,igorsych@microsoft.com,13
-(none),lruiz@plainconcepts.com,0
 carenas@plainconcepts.com,davidbritch@users.noreply.github.com,16
 bethma@microsoft.com,dsanz@plainconcepts.com,0
-(none),bethma@microsoft.com,0
 igorsych@microsoft.com,rtomas@plainconcepts.com,12
-(none),unai zorrilla castro,0
 cesardl@microsoft.com,sescalada@plainconcepts.com,2
 jono@rallysafe.com.au,sescalada@plainconcepts.com,0
 carenas@plainconcepts.com,martin@dotnetfoundation.org,1
@@ -1063,7 +1024,6 @@ charychandan@gmail.com,glennc@microsoft.com,0
 cesardl@surfbookcesardl,izdebski.krzysztof@gmail.com,0
 igorsychev@microsoft.com,steve@kentsmiths.com,0
 egorgrishechko@gmail.com,izdebski.krzysztof@gmail.com,0
-(none),jorgearteiro@hotmail.com,0
 cesardl@microsoft.com,lruiz@plainconcepts.com,5
 igorsychev@microsoft.com,shaun.walker@arrowdigital.com,3
 dennis.vanderstelt@particular.net,sychev-igor.90@mail.ru,0
@@ -1105,7 +1065,6 @@ igorsychev@microsoft.com,jono@rallysafe.com.au,0
 sescalada@plainconcepts.com,unai@plainconcepts.com,0
 c.canizaresestevez@hotmail.com,geert.van.laethem@telenet.be,0
 jacanosalado@gmail.com,jorgevalentzeferino@gmail.com,0
-(none),jsuarez@plainconcepts.com,0
 adebunky@gmail.com,henkmollema@gmail.com,0
 kyle@baley.org,skynode@users.noreply.github.com,0
 ncsurfus@gmail.com,wiwagn@microsoft.com,0
@@ -1148,8 +1107,6 @@ bill.w.wagner@outlook.com,javiersuarezruiz@hotmail.com,0
 bethma@microsoft.com,dazhao@microsoft.com,0
 cesardl@microsoft.com,jorgearteiro@hotmail.com,1
 igorsych@microsoft.com,martin@dotnetfoundation.org,1
-(none),kyle@baley.org,0
-(none),rivettea@hotmail.com,0
 martin@dotnetfoundation.org,sychev-igor.90@mail.ru,0
 jacanosalado@gmail.com,priyanshuagrawal@outlook.com,0
 glennc@microsoft.com,rtomas@plainconcepts.com,2
@@ -1186,7 +1143,6 @@ cesardl@microsoft.com,jsuarez@plainconcepts.com,13
 ramon.tomas84@hotmail.com,wiwagn@microsoft.com,17
 ccanizares@plainconcepts.com,javiersuarezruiz@hotmail.com,5
 cesardl@surfbookcesardl,egorgrishechko@gmail.com,0
-(none),sychev-igor.90@mail.ru,0
 javiersuarezruiz@hotmail.com,volkanaltan@gmail.com,0
 cesardl@microsoft.com,geert.van.laethem@telenet.be,0
 jorgearteiro@hotmail.com,jorgevalentzeferino@gmail.com,0
@@ -1271,7 +1227,6 @@ chlowe@microsoft.com,polys@users.noreply.github.com,0
 davidbritch@davids-mbp.lan,polys@users.noreply.github.com,0
 c.canizaresestevez@hotmail.com,dsanz@plainconcepts.com,34
 jono@rallysafe.com.au,wiwagn@microsoft.com,0
-(none),igorsych@microsoft.com,0
 christian147_@hotmail.com,danny.chencc@ef.com,0
 c.canizaresestevez@hotmail.com,davidbritch@davids-mbp.lan,5
 danny.chencc@ef.com,matthew@codeproject.com,0
@@ -1284,7 +1239,6 @@ izdebski.krzysztof@gmail.com,rtomas@plainconcepts.com,0
 cesardl@surfbookcesardl,martin@dotnetfoundation.org,1
 dsanz@plainconcepts.com,izdebski.krzysztof@gmail.com,0
 frankanya@outlook.com,steve@kentsmiths.com,0
-(none),davidbritch@davids-mbp.lan,0
 frankanya@outlook.com,shaun.walker@arrowdigital.com,0
 shaun.walker@arrowdigital.com,volkanaltan@gmail.com,0
 bethma@microsoft.com,jorgearteiro@hotmail.com,0
@@ -1310,7 +1264,6 @@ bethma@microsoft.com,jsuarez@plainconcepts.com,0
 chlowe@microsoft.com,e.fernandez@plainconcepts.com,5
 davidbritch@davids-mbp.lan,e.fernandez@plainconcepts.com,0
 e.fernandez@plainconcepts.com,etomas@gmail.com,5
-(none),izdebski.krzysztof@gmail.com,0
 charychandan@gmail.com,etomas@gmail.com,1
 dennis.vanderstelt@particular.net,egorgrishechko@gmail.com,0
 javiersuarezruiz@hotmail.com,matthew@codeproject.com,0
@@ -1323,7 +1276,6 @@ christian.arenasnavarro@hotmail.com,skynode@users.noreply.github.com,0
 carenas@plainconcepts.com,e.fernandez@plainconcepts.com,4
 izdebski.krzysztof@gmail.com,javiersuarezruiz@hotmail.com,0
 bill.w.wagner@outlook.com,dennis.vanderstelt@particular.net,0
-(none),bill.w.wagner@outlook.com,0
 dsanz@plainconcepts.com,priyanshuagrawal@outlook.com,0
 adebunky@gmail.com,dazhao@microsoft.com,0
 igorsychev@microsoft.com,ncsurfus@gmail.com,0
@@ -1398,13 +1350,11 @@ ncsurfus@gmail.com,unai zorrilla castro,0
 e.fernandez@plainconcepts.com,izdebski.krzysztof@gmail.com,0
 dazhao@microsoft.com,egorgrishechko@gmail.com,0
 charychandan@gmail.com,izdebski.krzysztof@gmail.com,0
-(none),rtomas@plainconcepts.com,0
 chlowe@microsoft.com,christian147_@hotmail.com,2
 etomas@gmail.com,sychev-igor.90@mail.ru,19
 christian.arenasnavarro@hotmail.com,jacanosalado@gmail.com,0
 adebunky@gmail.com,glennc@microsoft.com,0
 andre-ap2@hotmail.com,jacanosalado@gmail.com,0
-(none),skynode@users.noreply.github.com,0
 danny.chencc@ef.com,frankanya@outlook.com,0
 cesardl@surfbookcesardl,dennis.vanderstelt@particular.net,0
 carenas@plainconcepts.com,sescalada@plainconcepts.com,8
@@ -1432,7 +1382,6 @@ javiersuarezruiz@hotmail.com,priyanshuagrawal@outlook.com,1
 charychandan@gmail.com,unai@plainconcepts.com,0
 cesardl@surfbookcesardl,steve@kentsmiths.com,1
 adebunky@gmail.com,unai zorrilla castro,0
-(none),egorgrishechko@gmail.com,0
 davidbritch@users.noreply.github.com,steve@kentsmiths.com,0
 cesardl@surfbookcesardl,charychandan@gmail.com,1
 cesardl@surfbookcesardl,shaun.walker@arrowdigital.com,1
@@ -1465,7 +1414,6 @@ adebunky@gmail.com,ramon.smits@gmail.com,0
 christian.arenasnavarro@hotmail.com,martin@dotnetfoundation.org,0
 davidbritch@users.noreply.github.com,jono@rallysafe.com.au,0
 e.fernandez@plainconcepts.com,priyanshuagrawal@outlook.com,0
-(none),javiersuarezruiz@hotmail.com,0
 c.canizaresestevez@hotmail.com,glennc@microsoft.com,21
 chlowe@microsoft.com,lruiz@plainconcepts.com,0
 davidbritch@davids-mbp.lan,lruiz@plainconcepts.com,0
@@ -1473,7 +1421,6 @@ rtomas@plainconcepts.com,unai@plainconcepts.com,10
 jsuarez@plainconcepts.com,sescalada@plainconcepts.com,12
 charychandan@gmail.com,priyanshuagrawal@outlook.com,1
 jacanosalado@gmail.com,wiwagn@microsoft.com,0
-(none),andre-ap2@hotmail.com,0
 henkmollema@gmail.com,steve@kentsmiths.com,0
 henkmollema@gmail.com,shaun.walker@arrowdigital.com,0
 ramon.tomas84@hotmail.com,unai zorrilla castro,84
@@ -1486,7 +1433,6 @@ cesardl@microsoft.com,skynode@users.noreply.github.com,1
 jorgevalentzeferino@gmail.com,sescalada@plainconcepts.com,0
 c.canizaresestevez@hotmail.com,lruiz@plainconcepts.com,2
 igorsychev@microsoft.com,jsuarez@plainconcepts.com,0
-(none),chlowe@microsoft.com,0
 christian.arenasnavarro@hotmail.com,jorgearteiro@hotmail.com,0
 danny.chencc@ef.com,igorsychev@microsoft.com,0
 christian.arenasnavarro@hotmail.com,ramon.tomas84@hotmail.com,30
@@ -1528,7 +1474,6 @@ adebunky@gmail.com,danny.chencc@ef.com,0
 jorgearteiro@hotmail.com,steve@kentsmiths.com,0
 martin@dotnetfoundation.org,ramon.tomas84@hotmail.com,1
 jorgearteiro@hotmail.com,shaun.walker@arrowdigital.com,0
-(none),ramon.smits@gmail.com,0
 cesardl@surfbookcesardl,dsanz@plainconcepts.com,7
 andre-ap2@hotmail.com,christian.arenasnavarro@hotmail.com,2
 kyle@baley.org,unai@plainconcepts.com,0
