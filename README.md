@@ -15,3 +15,11 @@ For the temporal community discovery, install `tenetan` library with optional de
 python -m pip install tenetan[prepr]
 ```
 
+
+## Temporal community detection
+
+### Choosing the amount of communities R to detect based on Core Consistency
+
+The script `choice_of_R.py` repeats the PARAFAC decomposition of the network tensors for different choices of R 
+ and creates the 'elbow' figure to allow selection of the optimal parameter value (4 in our paper).
+It also saves the calculated core consistencies in json files.
