@@ -6,10 +6,10 @@ import pickle
 file_net = SnapshotGraph("data_file_network_concat_network.csv", directed=False)
 service_net = SnapshotGraph("data_service_network_concat_network.csv", directed=False)
 
-file_comm = community_parafac_nn_als(file_net, 4,
+file_comm = community_parafac_nn_als(file_net, 2,
                                      "in_communities", "out_communities", "raw_temporal_activity",
                                      "in_temporal_activity", "out_temporal_activity", "core_consistency", init='svd')
-service_comm = community_parafac_nn_als(service_net, 4,
+service_comm = community_parafac_nn_als(service_net, 5,
                                         "in_communities", "out_communities", "raw_temporal_activity",
                                         "in_temporal_activity", "out_temporal_activity", "core_consistency", init='svd')
 
