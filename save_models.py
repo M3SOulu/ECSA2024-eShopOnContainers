@@ -3,8 +3,8 @@ from tenetan.community import community_parafac_nn_als
 
 import pickle
 
-file_net = SnapshotGraph("data_file_network_concat_network.csv")
-service_net = SnapshotGraph("data_service_network_concat_network.csv")
+file_net = SnapshotGraph("data_file_network_concat_network.csv", directed=False)
+service_net = SnapshotGraph("data_service_network_concat_network.csv", directed=False)
 
 file_comm = community_parafac_nn_als(file_net, 4,
                                      "in_communities", "out_communities", "raw_temporal_activity",

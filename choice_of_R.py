@@ -17,8 +17,8 @@ def repeat_detection(net: SnapshotGraph, n_comm_max: int = 20):
     return results
 
 
-file_net = SnapshotGraph("data_file_network_concat_network.csv")
-service_net = SnapshotGraph("data_service_network_concat_network.csv")
+file_net = SnapshotGraph("data_file_network_concat_network.csv", directed=False)
+service_net = SnapshotGraph("data_service_network_concat_network.csv", directed=False)
 
 cc_file_net = repeat_detection(file_net, n_comm_max=N_COMM_MAX)
 cc_service_net = repeat_detection(service_net, n_comm_max=N_COMM_MAX)
