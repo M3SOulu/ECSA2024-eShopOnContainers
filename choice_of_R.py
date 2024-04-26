@@ -28,7 +28,7 @@ with open(f"core_consistency_file_network_ncomm_max_{N_COMM_MAX}.json", 'w') as 
 with open(f"core_consistency_service_network_ncomm_max_{N_COMM_MAX}.json", 'w') as f:
     json.dump(cc_service_net, f)
 
-fig, axes = plt.subplots(1,2, sharex=True, figsize=(8,4.5))
+fig, axes = plt.subplots(1,2, sharex=True, figsize=(7,3))
 plt.subplot(121)
 plt.plot(cc_file_net.keys(), cc_file_net.values(), 'b-')
 plt.plot(cc_file_net.keys(), cc_file_net.values(), 'ro')
@@ -40,5 +40,6 @@ plt.title('Service collaboration')
 plt.suptitle("Core consistency elbow")
 fig.supxlabel("Amount of communities, R")
 fig.supylabel("Core consistency")
+plt.tight_layout()
 plt.savefig('cc_elbow.png')
 plt.show()
