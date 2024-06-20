@@ -89,3 +89,10 @@ It also saves the calculated core consistencies for [file](core_consistency_file
 and [service](core_consistency_service_network_ncomm_max_6.json) networks in json files.
 
 We choose `R=2` for file network and `R=5` for service networks.
+
+
+### Fitting and saving community models
+
+The script [`save_models.py`](save_models.py) fits the selected amount of communities to the file and service network
+and saves them as pickled data to [file_communities.pkl](file_communities.pkl) and [service_communities.pkl](service_communities.pkl)
+files for further steps.

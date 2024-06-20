@@ -3,8 +3,12 @@ from tenetan.community import community_parafac_nn_als
 
 import pickle
 
-file_net = SnapshotGraph("data_file_network_concat_network.csv", directed=False)
-service_net = SnapshotGraph("data_service_network_concat_network.csv", directed=False)
+file_net = SnapshotGraph()
+file_net.load_csv_directory('data_file_network_clean', source_col='developer_a', target_col='developer_b', weight_col='weight',
+                            directed=False, sort_vertices=True)
+service_net = SnapshotGraph()
+service_net.load_csv_directory('data_service_network_clean', source_col='developer_a', target_col='developer_b', weight_col='weight',
+                               directed=False, sort_vertices=True)
 
 file_comm = community_parafac_nn_als(file_net, 2,
                                      "in_communities", "out_communities", "raw_temporal_activity",
