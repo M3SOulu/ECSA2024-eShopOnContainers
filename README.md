@@ -96,3 +96,8 @@ We choose `R=2` for file network and `R=5` for service networks.
 The script [`save_models.py`](save_models.py) fits the selected amount of communities to the file and service network
 and saves them as pickled data to [file_communities.pkl](file_communities.pkl) and [service_communities.pkl](service_communities.pkl)
 files for further steps.
+
+
+### Plotting community structures
+
+The script [`community_structure.py`](community_structure.py) makes the plot of developers strengths of belonging to different communities.

@@ -58,4 +58,3 @@ fig.suptitle('Community membership')
 
 plt.tight_layout()
 plt.savefig('communities.png')
-plt.show()
