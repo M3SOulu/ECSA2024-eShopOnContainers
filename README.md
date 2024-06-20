@@ -100,4 +100,11 @@ files for further steps.
 
 ### Plotting community structures
 
-The script [`community_structure.py`](community_structure.py) makes the plot of developers strengths of belonging to different communities.
+The script [`community_structure.py`](community_structure.py) makes the plot of developers strengths of belonging to different communities,
+and saves it to figure [`communities.png`](communities.png).
+
+
+### Plotting temporal activities
+
+The script [`temporal_activity.py`](temporal_activity.py) makes the plot of communities temporal activities and saves it
+to figure [`temporal_activity.png`](temporal_activity.png).
