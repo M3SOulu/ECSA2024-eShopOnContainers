@@ -12,7 +12,7 @@ All commands should be run in the root of this repository
 For developer collaboration network mining, install the `mison` python package
 
 ```shell
-python -m pip install mison==1.0.0
+python -m pip install mison==1.0.1
 ```
 
 ### Mining the commits
