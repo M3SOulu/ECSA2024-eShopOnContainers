@@ -52,6 +52,27 @@ python -m mison network --commit_table data_commits/eshop_commits_3.0.0.csv --fi
 python -m mison network --commit_table data_commits/eshop_commits_5.0.0.csv --field service --skip_zero --network_output data_service_network_raw/eshop_network_services_5.0.0.csv
 ```
 
+### Cleaning the data
+
+The script [clear_data](clear_data.py) removes `(none)` developer and maps duplicate emails of the same people
+from [email_map](email_map.json) to the same email (release `5.0.0` ommited due to lack of collaboration as described in the paper):
+
+```shell
+# File networks
+python clear_data.py data_file_network_raw/eshop_network_files_2.0.0.csv data_file_network_clean/eshop_network_files_2.0.0.csv email_map.json
+python clear_data.py data_file_network_raw/eshop_network_files_2.0.5.csv data_file_network_clean/eshop_network_files_2.0.5.csv email_map.json
+python clear_data.py data_file_network_raw/eshop_network_files_2.0.8.csv data_file_network_clean/eshop_network_files_2.0.8.csv email_map.json
+python clear_data.py data_file_network_raw/eshop_network_files_2.2.0.csv data_file_network_clean/eshop_network_files_2.2.0.csv email_map.json
+python clear_data.py data_file_network_raw/eshop_network_files_3.0.0.csv data_file_network_clean/eshop_network_files_3.0.0.csv email_map.json
+
+# Service networks
+python clear_data.py data_service_network_raw/eshop_network_services_2.0.0.csv data_service_network_clean/eshop_network_services_2.0.0.csv email_map.json
+python clear_data.py data_service_network_raw/eshop_network_services_2.0.5.csv data_service_network_clean/eshop_network_services_2.0.5.csv email_map.json
+python clear_data.py data_service_network_raw/eshop_network_services_2.0.8.csv data_service_network_clean/eshop_network_services_2.0.8.csv email_map.json
+python clear_data.py data_service_network_raw/eshop_network_services_2.2.0.csv data_service_network_clean/eshop_network_services_2.2.0.csv email_map.json
+python clear_data.py data_service_network_raw/eshop_network_services_3.0.0.csv data_service_network_clean/eshop_network_services_3.0.0.csv email_map.json
+```
+
 ## Temporal community detection
 
 ### Choosing the amount of communities R to detect based on Core Consistency
