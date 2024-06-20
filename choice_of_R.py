@@ -17,8 +17,12 @@ def repeat_detection(net: SnapshotGraph, n_comm_max: int = 20):
     return results
 
 
-file_net = SnapshotGraph("data_file_network_concat_network.csv", directed=False)
-service_net = SnapshotGraph("data_service_network_concat_network.csv", directed=False)
+file_net = SnapshotGraph()
+file_net.load_csv_directory('data_file_network_clean', source_col='developer_a', target_col='developer_b', weight_col='weight',
+                            directed=False, sort_vertices=True)
+service_net = SnapshotGraph()
+service_net.load_csv_directory('data_service_network_clean', source_col='developer_a', target_col='developer_b', weight_col='weight',
+                            directed=False, sort_vertices=True)
 
 cc_file_net = repeat_detection(file_net, n_comm_max=N_COMM_MAX)
 cc_service_net = repeat_detection(service_net, n_comm_max=N_COMM_MAX)
@@ -42,4 +46,3 @@ fig.supxlabel("Amount of communities, R")
 fig.supylabel("Core consistency")
 plt.tight_layout()
 plt.savefig('cc_elbow.png')
-plt.show()

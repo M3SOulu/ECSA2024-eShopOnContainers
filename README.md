@@ -75,8 +75,17 @@ python clear_data.py data_service_network_raw/eshop_network_services_3.0.0.csv d
 
 ## Temporal community detection
 
+For developer collaboration network temporal community detection, install the `tenetan` python package:
+
+```shell
+python -m pip install tenetan==0.2.0
+```
+
 ### Choosing the amount of communities R to detect based on Core Consistency
 
-The script `choice_of_R.py` repeats the PARAFAC decomposition of the network tensors for different choices of R 
- and creates the 'elbow' figure to allow selection of the optimal parameter value (4 in our paper).
-It also saves the calculated core consistencies in json files.
+The script [`choice_of_R.py`](choice_of_R.py) repeats the PARAFAC decomposition of the network tensors for different choices of R 
+ and creates the 'elbow' figure to allow selection of the optimal parameter value [cc_elbow](cc_elbow.png).
+It also saves the calculated core consistencies for [file](core_consistency_file_network_ncomm_max_6.json)
+and [service](core_consistency_service_network_ncomm_max_6.json) networks in json files.
+
+We choose `R=2` for file network and `R=5` for service networks.
