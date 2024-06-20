@@ -54,7 +54,7 @@ python -m mison network --commit_table data_commits/eshop_commits_5.0.0.csv --fi
 
 ### Cleaning the data
 
-The script [clear_data](clear_data.py) removes `(none)` developer and maps duplicate emails of the same people
+The script [`clear_data.py`](clear_data.py) removes `(none)` developer and maps duplicate emails of the same people
 from [email_map](email_map.json) to the same email (release `5.0.0` ommited due to lack of collaboration as described in the paper):
 
 ```shell
