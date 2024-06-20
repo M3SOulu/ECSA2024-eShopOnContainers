@@ -4,17 +4,23 @@ This is a fork of eShopOnContainers repository for the ECSA2024 paper Temporal C
 Networks of Microservice Projects.
 
 This branch contains the data replication instructions for the developer coupling network construction and analysis.
-All the other branches are original branches and are used for commit mining
+All the other branches are original branches and are used for commit mining.
 
-All commands should be run in the root of this repository
+All commands should be run in the root of this repository.
+
+## Installing necessary packages
+
+This replication package uses libraries `mison==1.0.1` and `tenetan==0.2.0` available on PyPI.
+For preservation reasons, the source of those version of the libraries is available in this replication package.
+It is thus only necessary to install requirements packages from [requirements.txt](requirements.txt):
+
+```shell
+python -m pip install -r requirements.txt
+```
 
 ## Obtaining the developer collaboration networks
 
-For developer collaboration network mining, install the `mison` python package
-
-```shell
-python -m pip install mison==1.0.1
-```
+For developer collaboration network mining, use the `mison` python package.
 
 ### Mining the commits
 
@@ -76,11 +82,7 @@ python clear_data.py data_service_network_raw/eshop_network_services_3.0.0.csv d
 
 ## Temporal community detection
 
-For developer collaboration network temporal community detection, install the `tenetan` python package:
-
-```shell
-python -m pip install tenetan==0.2.0
-```
+For developer collaboration network temporal community detection, use the `tenetan` python package:
 
 ### Choosing the amount of communities R to detect based on Core Consistency
 
