@@ -1,6 +1,7 @@
-# Temporal Network Community Detection for Collaboration Networks
+# Temporal Community Detection in Developer Collaboration Networks of Microservice Projects
 
-This is a fork of eShopOnContainers repository for the paper ???.
+This is a fork of eShopOnContainers repository for the ECSA2024 paper Temporal Community Detection in Developer Collaboration
+Networks of Microservice Projects.
 
 This branch contains the data replication instructions for the developer coupling network construction and analysis.
 All the other branches are original branches and are used for commit mining
